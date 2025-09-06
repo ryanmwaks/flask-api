@@ -1,1 +1,12 @@
+# Web framework
+flask
+
+# Useful for handling environments
+python-dotenv
+
+# Testing tools
+pytest
+
+# Code formatting
+black
 flask
